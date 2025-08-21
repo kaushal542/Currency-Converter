@@ -24,7 +24,3 @@ It fetches real-time exchange rates using the **ExchangeRate API** and provides 
 ## 🚀 Live Demo
 👉 [Click Here](https://kaushal542.github.io/Currency-Converter-using-JavaScript/)
 
----
-
-## 📂 Project Structure
-
