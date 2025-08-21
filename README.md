@@ -14,4 +14,4 @@ Fetches real-time exchange rates using the **ExchangeRate API** and updates the 
 - JavaScript (ES6+), Fetch API  
 
 ## 🚀 Live Demo
-👉 [Click Here](https://kaushal542.github.io/Currency-Converter/)
+👉 [Click Here](https://kaushal542.github.io/Currency-Converter-using-JavaScript/)
